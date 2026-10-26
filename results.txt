@@ -1,0 +1,5 @@
+Result shows:
+CNN wins at test accuracy of 98.98%, test loss of 0.0316. 
+While MLP has test accuracy of 97.12%, test losses of 0.0912; 
+but the worst is Transformer, which has an accuracy of 96.05, test loss 0.1267
+* Test is performed with Cuda GPU
